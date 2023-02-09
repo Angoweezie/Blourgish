@@ -1,12 +1,12 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-    apiKey: "AIzaSyDvN3gEv8Fte7hoAFNq98oad1h9F30FMPg",
-    authDomain: "facebook-clone-e8f34.firebaseapp.com",
-    projectId: "facebook-clone-e8f34",
-    storageBucket: "facebook-clone-e8f34.appspot.com",
-    messagingSenderId: "784890696432",
-    appId: "1:784890696432:web:5e7fc1581853f5a1486835"
+  apiKey: "AIzaSyBKLosVpR9kaqjchlHM-jvkFvf5_Nx27qU",
+  authDomain: "fb-clone-11638.firebaseapp.com",
+  projectId: "fb-clone-11638",
+  storageBucket: "fb-clone-11638.appspot.com",
+  messagingSenderId: "895882659416",
+  appId: "1:895882659416:web:1b24b08207e2e7d620ec2d"
 };
   
   // Initialize Firebase
